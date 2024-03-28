@@ -156,6 +156,5 @@ No known bugs at this time.
 ## Authors
 Kamogelo Ellen Kganakga - [Github](https://github.com/kamoellen) 
 
-Second part of Airbnb: Joann Vuong
 ## License
 Public Domain. No copy write protection. 
